@@ -165,7 +165,11 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.25,
+        0.35
+      ],
       "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
